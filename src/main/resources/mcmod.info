@@ -12,5 +12,20 @@
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
+},
+{
+  "modid": "projectzero",
+  "name": "HM Project Zero",
+  "description": "First draft mod of HM Project.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Windfall0904, halfbottlegourd"],
+  "credits": "Hak and Max's first try to make a Minecraft Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
 }
 ]
+
